@@ -7,11 +7,11 @@ LWC Custom Property Editorを試してみる中で、HTML CanvasをFlow Builder�
 - customCanvasPropertyEditor
   - 上記コンポーネント内で使われる Custom Property Editor
 
-Flow Builder
+## Flow Builder
 
 ![Flow Builder](images/flow-builder.png)
 
 
-Flow実行
+## Flow実行
 
 ![Flow Run](images/flow-exe.png)
