@@ -1,0 +1,17 @@
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+	<apiVersion>51.0</apiVersion>
+	<isExposed>true</isExposed>
+	<masterLabel
+  >Canvasを使ったCustom Property Editorが定義されたLWC for Flow</masterLabel>
+	<targets>
+		<target>lightning__FlowScreen</target>
+	</targets>
+	<targetConfigs>
+		<targetConfig
+      targets="lightning__FlowScreen"
+      configurationEditor="c-custom-canvas-property-editor"
+    >
+				<property name="base64image" type="String" />
+		</targetConfig>
+	</targetConfigs>
+</LightningComponentBundle>
